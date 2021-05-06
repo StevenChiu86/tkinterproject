@@ -5,7 +5,7 @@ from tkinter import messagebox  # import this to fix messagebox error
 from PIL import Image, ImageTk
 
 window = tk.Tk()
-window.title('Welcome to our family')
+window.title('Welcome')
 window.geometry('450x300')
 window.configure(bg='blue')
 # welcome image
